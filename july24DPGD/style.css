@@ -23,6 +23,9 @@ main {
 }
 .box.left h2 {
   font-size: 2rem;
+  color: lightblue;
+  background-color: black;
+  padding: 0.5rem;
 }
 .box.left p {
   margin: 1rem 0;
